@@ -3,5 +3,5 @@
 ## Fase 1
 - [Java](https://github.com/Darklabel91/Java_Fiap)
 - [NoSQL](https://github.com/Darklabel91/NoSQL_Fiap)
-- [Design Thinking]()
+- [Design Thinking](https://github.com/Darklabel91/DesignThinking_Fiap)
 - [UX]()
