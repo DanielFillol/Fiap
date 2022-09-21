@@ -6,3 +6,6 @@
 - [Design Thinking](https://github.com/Darklabel91/DesignThinking_Fiap)
 - [UX](https://github.com/Darklabel91/UX_Fiap)
 - [Solution Sprint](https://github.com/Darklabel91/SolutionSprint_FIAP/blob/main/README.md)
+
+## Fase 2
+- [Web Development - Part 1](https://github.com/Darklabel91/FIAP_WebDevelopment_-Part1/edit/main/README.md)
