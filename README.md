@@ -9,3 +9,4 @@
 
 ## Fase 2
 - [Web Development - Part 1](https://github.com/Darklabel91/FIAP_WebDevelopment_Part1)
+- [Agile Management 3.0](https://github.com/Darklabel91/FIAP_Agile_Management)
