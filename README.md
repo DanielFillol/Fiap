@@ -17,5 +17,5 @@
 ## Fase 3
 - [Spring](https://github.com/Darklabel91/Fiap_Spring)
 - [Webservices & Restful Technologies](https://github.com/Darklabel91/Fiap_Webservices7Restful-Technologies)
-- [Web Development - Parte 2 - Conteúdo Estático + PWA]()
+- [Web Development - Parte 2 - Conteúdo Estático + PWA](https://github.com/Darklabel91/Web-Development---Parte-2-)
 - [Big Data Development]()
